@@ -1,5 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+I found the problem is after clearing the dataset, it is unavailable to re-write the student data into the student.data file. I import 'threading' module to avoid the conflicts of data from multiple threads accessing the dataset at the sametime.
